@@ -16,4 +16,14 @@ Web development enthusiast 💻🚀. <br>Learning, coding, and creating to bring
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AKKSHAAT&theme=blueberry&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=AKKSHAAt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=AKKSHAAt&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=AKKSHAAT&icon=0&color=12)](https://visitcount.itsvg.in)
